@@ -45,7 +45,7 @@ Docker Compose permite establecer relaciones entre servicios mediante una red in
 #### Paso 1: Crear el archivo docker-compose.yml
 Crear un archivo llamado docker-compose.yml con el siguiente contenido:
 
-![Figura 8-1.](img/Screenshot%202025-11-15%20232937.png)
+![Figura 8-1.](Screenshot%202025-11-15%20232937.png)
 
 ```powershell
 version: "3.9"
