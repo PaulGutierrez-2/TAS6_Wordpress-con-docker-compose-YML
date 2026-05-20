@@ -111,7 +111,7 @@ Abrir la terminal dentro de la carpeta y ejecutar:
 docker compose up -d
 ```
 
-![Figura 8-3.](img/Screenshot%202025-11-15%20230922.png)
+![Figura 8-3.](Screenshot%202025-11-15%20230922.png)
 
 #### Paso 3: Abrir WordPress y phpMyAdmin
 En el navegador escribir:
@@ -119,13 +119,13 @@ En el navegador escribir:
 http://localhost:8080
 ```
 
-![Figura 8-1.](img/Screenshot%202025-11-15%20231026.png)
+![Figura 8-1.](Screenshot%202025-11-15%20231026.png)
 
 ```powershell
 http://localhost:9090
 ```
 
-![Figura 8-1.](img/Screenshot%202025-11-15%20231042.png)
+![Figura 8-1.](Screenshot%202025-11-15%20231042.png)
 
 ## 9. Resultados esperados
 La práctica ha demostrado satisfactoriamente el mecanismo de persistencia de datos en Docker.
